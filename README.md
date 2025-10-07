@@ -1,0 +1,1 @@
+An app that collects and tracks recyclable items, rewarding users for recycling materials like plastic or cans.
